@@ -1,0 +1,10 @@
+# $Id: .screenrc 287 2008-08-13 02:21:10Z root $
+escape ^A^A
+startup_message off
+defscrollback 10000
+hardstatus alwayslastline
+hardstatus string "%{kG}%50>%-w%{ky}%n %t%{-}%+w%{-} %>%=%{ky}Ctrl-A ?%{-} for help"
+# This is for mouse scroll-wheel support.
+# Tell screen that xterm can scroll.
+termcapinfo xterm ti@:te@
+# Bind Shift+PgUp/PgDn.
