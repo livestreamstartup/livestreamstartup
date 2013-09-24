@@ -34,4 +34,13 @@
 		function failedLogin() {
 			$_SESSION['loggedin'] = 0;
 		}
+
+		// Functions related to creating new users below.
+
+		function createUser($username, $password) {
+			$sqlQuery = "insert into users (username, password) values ('".$username."', '".$password."')";
+			$this->Logging->log($sqlQuery);
+		}
+
+
 	}
