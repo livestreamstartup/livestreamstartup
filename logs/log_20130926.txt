@@ -1,0 +1,115 @@
+2013 09 26 09:08:39|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:08:43|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:08:43|Starting script.
+2013 09 26 09:08:47|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:08:47|Starting script.
+2013 09 26 09:08:55|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:08:55|Starting script.
+2013 09 26 09:09:42|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:09:42|Starting script.
+2013 09 26 09:10:22|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:10:22|Starting script.
+2013 09 26 09:10:30|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:10:30|Starting script.
+2013 09 26 09:11:39|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:11:39|Starting script.
+2013 09 26 09:11:41|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:11:41|Starting script.
+2013 09 26 09:17:12|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:17:12|Starting script.
+2013 09 26 09:17:46|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:17:46|Starting script.
+2013 09 26 09:20:24|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:20:35|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:20:56|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:21:09|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:21:52|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:21:52|Starting script.
+2013 09 26 09:22:11|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:22:27|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:22:27|Starting script.
+2013 09 26 09:22:49|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:22:49|Starting script.
+2013 09 26 09:23:22|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:23:22|Starting script.
+2013 09 26 09:23:26|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:23:26|Starting script.
+2013 09 26 09:23:51|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:23:51|Starting script.
+2013 09 26 09:23:58|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:23:58|Starting script.
+2013 09 26 09:24:00|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:24:00|Starting script.
+2013 09 26 09:25:10|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:25:10|Starting script.
+2013 09 26 09:25:11|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:25:11|Starting script.
+2013 09 26 09:27:58|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:27:58|Starting script.
+2013 09 26 09:28:48|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:28:48|Starting script.
+2013 09 26 09:28:50|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:28:50|Starting script.
+2013 09 26 09:32:16|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:32:16|Starting script.
+2013 09 26 09:32:19|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:32:19|Starting script.
+2013 09 26 09:32:46|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:32:46|Starting script.
+2013 09 26 09:34:16|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:34:16|Starting script.
+2013 09 26 09:34:27|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:34:27|Starting script.
+2013 09 26 09:34:34|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:34:34|Starting script.
+2013 09 26 09:34:39|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:34:39|Starting script.
+2013 09 26 09:35:07|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:35:07|Starting script.
+2013 09 26 09:35:32|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:35:32|Starting script.
+2013 09 26 09:35:36|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:35:36|Starting script.
+2013 09 26 09:36:05|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:36:05|Starting script.
+2013 09 26 09:39:37|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:39:37|Starting script.
+2013 09 26 09:44:22|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:44:22|Starting script.
+2013 09 26 09:45:13|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:45:13|Starting script.
+2013 09 26 09:47:46|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:48:41|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:49:10|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:49:10|Starting script.
+2013 09 26 09:49:13|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:49:13|Starting script.
+2013 09 26 09:49:20|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:49:20|Starting script.
+2013 09 26 09:49:39|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:49:39|Starting script.
+2013 09 26 09:49:42|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:49:42|Starting script.
+2013 09 26 09:49:55|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:49:55|Starting script.
+2013 09 26 09:50:03|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:50:03|Starting script.
+2013 09 26 09:50:10|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:50:10|Starting script.
+2013 09 26 09:50:16|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:50:16|Starting script.
+2013 09 26 09:50:21|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:50:21|Starting script.
+2013 09 26 09:54:38|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:54:38|Starting script.
+2013 09 26 09:54:53|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:54:53|Starting script.
+2013 09 26 09:55:22|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 09:55:22|Starting script.
+2013 09 26 10:00:30|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 10:00:30|Starting script.
+2013 09 26 10:02:02|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 10:02:14|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 10:03:06|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 10:03:08|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 26 10:03:08|Starting script.
