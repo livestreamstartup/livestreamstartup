@@ -9,9 +9,11 @@
 			$this->Authentication 	= new TAuthentication();
 			$this->doAuthentication();
 
-			preg_match('!^/([^/]+)!imsx', $uri, $pmatches);
-
-			$className = $pmatches[1];
+			if (preg_match('!^/([^/]+)!imsx', $uri, $pmatches)) {
+				$className = $pmatches[1];
+			} else {
+				$className = 'homepage';
+			}
 
 			if (strlen($className) > 32) {
 				// TODO : Logging Message

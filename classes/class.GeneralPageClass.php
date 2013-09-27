@@ -4,9 +4,9 @@
 
 	class TGeneralPageClass {
 		function __construct($className) {
-			$this->Sanitization = new TSanitization();
+			$this->className = $className;
 
-			$this->flags['content_exists'] = 0;
+			$this->Sanitization = new TSanitization();
 
 			if (isset($_POST['submit'])) {
 
@@ -15,6 +15,22 @@
 					$this->safePost[$key] = $this->Sanitization->alphaNumeric($value);
 				}
 			}
+
+			$this->init();
+
+
+			$this->flags['content_exists'] = 0;
+
+			if (isset($_POST['submit'])) {
+				$this->handleFormSubmission();
+
+			}
+
+
+		}
+
+		function createContent() {
+			$className = $this->className;
 
 			if (file_exists("../templates/pages/".$className.".html")) {
 				$content = file_get_contents("../templates/pages/".$className.".html");
@@ -28,8 +44,6 @@
 			}
 
 			$this->content = $content;
-
-			$this->init();
 		}
 
 		function showContent() {
