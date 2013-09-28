@@ -1,0 +1,7 @@
+.big_div {
+width:800px;background-color:blue;height:300px;display:block;
+}
+
+.small_div {
+position:absolute;top:10px;left:675px;width:130px;height:70px;background-color:red;display:block;z-index:4;
+}
