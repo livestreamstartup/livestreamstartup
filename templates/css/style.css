@@ -72,6 +72,7 @@ html,body {
 	top:500px;
 	width:800px;
 	height:20px;
-	background-color:#333333;
+	background-color:white;
 	display:block;
+	text-align:center;	
 }

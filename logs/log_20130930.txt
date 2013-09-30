@@ -202,3 +202,21 @@
 2013 09 30 10:18:44|Starting script.
 2013 09 30 10:18:45|classes/class.Database.php||TDatabase||9||Connected to database.
 2013 09 30 10:18:45|Starting script.
+2013 09 30 10:20:54|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:20:54|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:20:54|Starting script.
+2013 09 30 10:20:54|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:20:54|Starting script.
+2013 09 30 10:21:23|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:21:23|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:21:23|Starting script.
+2013 09 30 10:21:26|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:21:26|Starting script.
+2013 09 30 10:22:39|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:22:39|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:22:39|Starting script.
+2013 09 30 10:22:42|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:22:42|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:22:42|Starting script.
+2013 09 30 10:22:43|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 09 30 10:22:43|Starting script.
