@@ -1,7 +1,77 @@
-.big_div {
-width:800px;background-color:blue;height:300px;display:block;
+html,body {
+	margin:0px;
+	padding:0px;
+	height:100%;
 }
 
-.small_div {
-position:absolute;top:10px;left:675px;width:130px;height:70px;background-color:red;display:block;z-index:4;
+.navbar {
+	position:absolute;
+	top:0px;
+	width:800px;
+	height:20px;
+	background-color:black;
+	display:block;
+}
+
+.container {
+	position:absolute;
+	top:20px;
+	width:800px;
+	background-color:blue;
+	height:auto;
+	display:block;
+}
+.header {
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:block;
+	background-color:#008000;
+	height:80px;
+	width:800px;
+}
+
+.login_box {
+	position:absolute;
+	top:5px;
+	left:665px;
+	width:130px;
+	height:70px;
+	background-color:red;
+	display:block;
+}
+
+.left_choice {
+	position:absolute;
+	top:80px;
+	left:0px;
+	height:400px;
+	width:400px;
+	background-color:#aaaaaa;
+}
+
+.right_choice {
+	position:absolute;
+	top:80px;
+	left:400px;
+	height:400px;
+	width:400px;
+	background-color:#333333;
+}
+		
+.bottom_nav {
+	position:absolute;
+	top:480px;
+	width:800px;
+	height:20px;
+	background-color:black;
+	display:block;
+}
+.copyright {
+	position:absolute;
+	top:500px;
+	width:800px;
+	height:20px;
+	background-color:#333333;
+	display:block;
 }
