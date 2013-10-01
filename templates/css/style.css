@@ -4,14 +4,7 @@ html,body {
 	height:100%;
 }
 
-.navbar {
-	position:absolute;
-	top:0px;
-	width:800px;
-	height:20px;
-	background-color:black;
-	display:block;
-}
+{navbar}
 
 .container {
 	position:absolute;
