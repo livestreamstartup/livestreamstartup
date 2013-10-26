@@ -69,7 +69,7 @@
 		function assignPlaceholder($placeholder) {
 			$filename = "../templates/divcontent/".$placeholder.".html";
 			if (file_exists($filename)) {
-				$newcontent = file_get_contents($filename);
+				$newcontent = trim(file_get_contents($filename));
 				$this->content = str_replace('{'.$placeholder.'}', $newcontent, $this->content);
 			}
 

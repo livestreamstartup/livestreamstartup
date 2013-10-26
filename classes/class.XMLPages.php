@@ -10,9 +10,6 @@
 					$parentTag  = 0;
 					$currentTag = $pmatches[1];
 
-					echo "Current Tag: ".$currentTag."<br />\n";
-
-
 					$this->divContent[] 	= $divContent;
 					$this->contentTags[] 	= $currentTag;
 				}
@@ -30,7 +27,6 @@
 						$childrenTags[ $parentTag ][] = $qmatches[1];
 					}
 
-					echo "Current Tag: ".$currentTag."\n<br />";
 				}
 
 				// Immediately after the line which matches a given tag, check
@@ -40,11 +36,7 @@
 				}
 			}
 
-			print_r($this->divContent);
-
-			print_r($childrenTags);
-
-			$divContent = '';
+			
 			foreach($childrenTags as $key=>$value) {
 				if (is_array($value)) {
 
@@ -59,6 +51,7 @@
 			}
 
 			echo "\n\n\n";
+			echo "<!-- class.XMLPages.php : xmlpages/homepage.xml -->\n";
 			echo $divContent;
 			echo "\n\n\n";
 

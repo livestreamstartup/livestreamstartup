@@ -1,0 +1,37 @@
+2013 10 17 03:42:29|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 03:42:29|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 03:42:30|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 03:42:30|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 03:42:31|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 03:42:31|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 05:06:07|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 05:06:07|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 05:06:07|Starting script.
+2013 10 17 09:56:27|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 10:37:33|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 10:37:33|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 10:37:33|Starting script.
+2013 10 17 10:37:33|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 10:37:33|preg_match
+2013 10 17 10:37:33|This executes.
+2013 10 17 10:37:33|Starting script.
+2013 10 17 10:37:34|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 10:37:44|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 10:37:44|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 10:37:44|Starting script.
+2013 10 17 10:37:45|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 10:38:32|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 10:38:32|preg_match
+2013 10 17 10:38:32|This executes.
+2013 10 17 10:38:32|Starting script.
+2013 10 17 10:38:32|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 05:37:06|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 05:37:06|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 05:37:06|Starting script.
+2013 10 17 05:37:06|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 09:32:05|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 09:32:05|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 09:32:05|Starting script.
+2013 10 17 11:23:24|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 11:23:24|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 17 11:23:24|Starting script.

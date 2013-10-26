@@ -20,6 +20,8 @@
 				$this->assignPlaceholder($value);
 			}
 
+			$this->assignPlaceholder('copyright');
+
 			$this->showContent();
 
 			$this->database = new TDatabase();

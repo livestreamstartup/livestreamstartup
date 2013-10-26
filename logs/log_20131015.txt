@@ -1,0 +1,21 @@
+2013 10 15 01:52:02|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 01:52:02|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 01:52:02|Starting script.
+2013 10 15 07:39:36|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 07:39:36|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 07:39:36|Starting script.
+2013 10 15 07:40:52|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 07:40:54|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 07:40:55|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 07:40:56|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 07:41:07|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 07:41:20|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 10:59:26|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 10:59:26|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 10:59:26|Starting script.
+2013 10 15 12:19:03|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 12:19:03|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 12:19:03|Starting script.
+2013 10 15 03:19:53|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 03:19:53|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 15 03:19:53|Starting script.

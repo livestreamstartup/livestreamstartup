@@ -1,0 +1,6 @@
+2013 10 13 02:56:30|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 13 02:56:30|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 13 02:56:30|Starting script.
+2013 10 13 05:49:37|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 13 05:49:37|classes/class.Database.php||TDatabase||9||Connected to database.
+2013 10 13 05:49:37|Starting script.
