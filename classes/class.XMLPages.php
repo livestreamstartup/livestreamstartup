@@ -37,6 +37,7 @@
 			}
 
 			
+			$divContent = "<!-- class.XMLPages.php : xmlpages/homepage.xml -->\n";
 			foreach($childrenTags as $key=>$value) {
 				if (is_array($value)) {
 
@@ -50,11 +51,12 @@
 				}
 			}
 
-			echo "\n\n\n";
-			echo "<!-- class.XMLPages.php : xmlpages/homepage.xml -->\n";
-			echo $divContent;
-			echo "\n\n\n";
+			$this->container = $divContent;
 
+		}
+
+		function getContainer() {
+			return $this->container;
 		}
 
 		function getContentTags() {

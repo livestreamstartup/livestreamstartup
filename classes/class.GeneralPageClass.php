@@ -66,11 +66,19 @@
 			$this->content = $content;
 		}
 
-		function assignPlaceholder($placeholder) {
-			$filename = "../templates/divcontent/".$placeholder.".html";
-			if (file_exists($filename)) {
-				$newcontent = trim(file_get_contents($filename));
-				$this->content = str_replace('{'.$placeholder.'}', $newcontent, $this->content);
+		function assignPlaceholder($placeholder, $content="default") {
+			// Replaces $placeholder with either contents of
+			// templates/divcontent/<placeholder>.html or with
+			// contents of $content if set.
+
+			if ($content == "default") {
+				$filename = "../templates/divcontent/".$placeholder.".html";
+				if (file_exists($filename)) {
+					$newcontent = trim(file_get_contents($filename));
+					$this->content = str_replace('{'.$placeholder.'}', $newcontent, $this->content);
+				}
+			} else {
+				$this->content = str_replace('{'.$placeholder.'}', $content, $this->content);
 			}
 
 		}

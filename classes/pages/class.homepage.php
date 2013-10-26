@@ -10,6 +10,8 @@
 			// Makes it possible to parse xmlpages/files.xml
 			$this->XMLPages = new TXMLPages();
 
+			$this->container = $this->XMLPages->getContainer();
+
 			$contentTags = $this->XMLPages->getContentTags();
 
 			$this->createContent();
@@ -19,6 +21,9 @@
 			foreach ($contentTags as $key=>$value) {
 				$this->assignPlaceholder($value);
 			}
+
+
+			$this->assignPlaceholder('main_container', $this->container);
 
 			$this->assignPlaceholder('copyright');
 
